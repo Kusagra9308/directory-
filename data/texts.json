@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Ṛgveda",
+    "author": "Unknown",
+    "language": "Sanskrit",
+    "year": -1200,
+    "summary": "A collection of hymns foundational to the Vedic tradition."
+  },
+  {
+    "title": "Thirukkural",
+    "author": "Thiruvalluvar",
+    "language": "Tamil",
+    "year": 100,
+    "summary": "A classical Tamil text on ethics, governance, and love."
+  },
+  {
+    "title": "Akbarnama",
+    "author": "Abul Fazl",
+    "language": "Persian",
+    "year": 1590,
+    "summary": "A detailed account of Emperor Akbar's reign."
+  },
+  {
+    "title": "Yoga Sutras",
+    "author": "Patañjali",
+    "language": "Sanskrit",
+    "year": -200,
+    "summary": "A foundational text of the Yoga school of philosophy."
+  }
+]
